@@ -20,7 +20,7 @@ Cuando una clase hereda de otra, hereda el estado y los métodos de la clase. Po
 
 **3- Dar un ejemplo de la vida real de polimorfismo. Diagrama de clases y explicación.**
 
-En este caso vemos claramente cómo se aplica polimorfismo. Tenemos una clase Vehículo que hereda a dos subclases, Bicicleta y Auto. 
+En este caso vemos claramente cómo se aplica polimorfismo. Tenemos una clase Vehiculo que hereda sus atributos y métodos a dos subclases, Bicicleta y Auto.
 Al heredar los métodos, éstos son usados por cada clase de distintas formas, ya que, por ejemplo, una bicicleta no acelera del mismo modo que un auto.
 
 `Imagen subida al repositorio`
